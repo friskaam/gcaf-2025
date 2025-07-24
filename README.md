@@ -68,11 +68,11 @@ Setiap tugas/badge yang diselesaikan dan milestone yang diraih akan dihadiahi **
 
 ## 📚 Silabus
 
-Untuk melihat silabus lengkap yang mencakup semua topik dan materi pembelajaran dalam program ini, Anda dapat mengunjungi [Silabus Program Arcade Facilitator '25](https://rsvp.withgoogle.com/events/arcade-fasilitator-id/silabus).
+Untuk melihat silabus lengkap yang mencakup semua topik dan materi pembelajaran dalam program ini, dapat mengunjungi [Silabus Program Arcade Facilitator '25](https://rsvp.withgoogle.com/events/arcade-fasilitator-id/silabus).
 
 ## 📝 Pendaftaran
 
-Bergabung dengan program ini sangat mudah! Daftarkan diri Anda sekarang juga dengan mengunjungi [Pendaftaran Google Cloud Arcade Facilitator '25](https://s.id/gcaf-2025).
+Bergabung dengan program ini sangat mudah! Daftar sekarang juga dengan mengunjungi [Pendaftaran Google Cloud Arcade Facilitator '25](https://s.id/gcaf-2025).
 
 ## 🚀 Mari Bergabung
 
