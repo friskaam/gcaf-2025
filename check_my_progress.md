@@ -23,3 +23,10 @@ javascript:(function () {
 })();
 
 ```
+
+## 🎥 Demo Video
+
+<video width="640" height="360" controls>
+  <source src="assets/videos/check_my_progress.mp4" type="video/mp4">
+  Browser kamu tidak mendukung pemutaran video.
+</video>
